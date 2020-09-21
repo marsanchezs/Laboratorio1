@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab01</string>
+    <string name="txtTitulo">LABORATORIO 01</string>
+    <string name="editText">INGRESAR TEXTO</string>
+    <string name="boton">SIGUIENTE</string>
+    <string name="textView">TEXTVIEW</string>
+</resources>
